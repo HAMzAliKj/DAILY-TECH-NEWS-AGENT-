@@ -2,6 +2,8 @@
 
 An **AI-powered agent** that fetches the **latest weekly tech news**, generates a **professional digest** using Google Gemini LLM, and can **send the news directly to WhatsApp**.  
 
+<img width="1221" height="618" alt="top ai news" src="https://github.com/user-attachments/assets/411cd290-1bd2-485d-be90-ca2abb37bb9c" />
+
 Built with **Streamlit**, **LangChain**, **Tavily Search**, and **PyWhatKit**.  
 
 ---
